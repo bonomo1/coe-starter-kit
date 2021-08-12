@@ -1,0 +1,5 @@
+## First Time Setup Instructions
+Get started with the CoE Starter Kit Setup: https://docs.microsoft.com/en-us/power-platform/guidance/coe/setup
+
+## Upgrade Instructions
+Upgrading from the latest version: https://docs.microsoft.com/en-us/power-platform/guidance/coe/setup#installing-updates
